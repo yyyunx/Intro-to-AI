@@ -1,7 +1,7 @@
 # Conway's Game of Life
 
 <p align="center">
-  <img src="mid/mode4.gif" width="650">
+  <img src="mode4.gif" width="650">
 </p>
 
 ## Project Overview
