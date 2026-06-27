@@ -1,7 +1,7 @@
 # Conway's Game of Life
 
 <p align="center">
-  <img src="mid/mode4.gif" width="650">
+  <img src="mode4.gif" width="650">
 </p>
 
 ## Project Overview
@@ -67,7 +67,7 @@ This project implements **Conway's Game of Life** using the C programming langua
 ### Mode 4: Oscillators
 
 <p align="center">
-  <img src="mid/mode4.gif" width="650">
+  <img src="mode4.gif" width="650">
 </p>
 
 ### Mode 5: Gosper Glider Gun
