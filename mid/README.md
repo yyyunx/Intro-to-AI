@@ -64,11 +64,11 @@ This project implements **Conway's Game of Life** using the C programming langua
   <tr>
     <td align="center">
       <b>Mode 4: Oscillators</b><br>
-      <img src="mid/mode4.gif" width="325">
+      <img src="mode4.gif" width="325">
     </td>
     <td align="center">
       <b>Mode 5: Gosper Glider Gun</b><br>
-      <img src="mid/mode5.gif" width="325">
+      <img src="mode5.gif" width="325">
     </td>
   </tr>
 </table>
