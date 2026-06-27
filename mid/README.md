@@ -1,9 +1,5 @@
 # Conway's Game of Life
 
-<p align="center">
-  <img src="mode4.gif" width="650">
-</p>
-
 ## Project Overview
 
 This project implements **Conway's Game of Life** using the C programming language. The program simulates the evolution of cells on a **40 × 70** board according to Conway's cellular automaton rules. Different initialization modes are provided, including user-defined patterns, random generation, still lifes, oscillators, and the Gosper Glider Gun. The simulation is rendered in real time within the console and supports both Windows and Linux environments.
@@ -64,14 +60,18 @@ This project implements **Conway's Game of Life** using the C programming langua
 
 ## Demo
 
-### Mode 4: Oscillators
-
-<p align="center">
-  <img src="mode4.gif" width="650">
-</p>
-
-### Mode 5: Gosper Glider Gun
-
+<table>
+  <tr>
+    <td align="center">
+      <b>Mode 4: Oscillators</b><br>
+      <img src="mid/mode4.gif" width="325">
+    </td>
+    <td align="center">
+      <b>Mode 5: Gosper Glider Gun</b><br>
+      <img src="mid/mode5.gif" width="325">
+    </td>
+  </tr>
+</table>
 
 ## Learning Outcomes
 
