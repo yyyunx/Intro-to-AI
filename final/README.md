@@ -10,28 +10,12 @@ A real-time <b>multi-agent ecosystem simulation</b> implemented in <b>C++</b>, f
 
 ---
 
+
 ## Project Overview
 
 Artificial Ecosystem Simulation is a real-time grid-based ecosystem simulator where each cat behaves as an autonomous agent. The simulation models food generation, food decay, movement strategies, reproduction, aging, starvation, and adaptive population balancing to produce complex emergent behaviors.
 
 Unlike simple cellular automata, each cat makes independent decisions based on its local environment, allowing the ecosystem to evolve dynamically over time.
-
----
-
-## Demo
-
-<p align="center">
-  <img src="demo.gif" width="350">
-</p>
-
-The simulation demonstrates:
-
-- Autonomous movement
-- Food generation and decay
-- Population growth
-- Reproduction
-- Adaptive ecosystem balancing
-- Real-time terminal visualization
 
 ---
 
