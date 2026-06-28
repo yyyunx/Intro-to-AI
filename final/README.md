@@ -1,7 +1,7 @@
 # Artificial Ecosystem Simulation
 
 <p align="center">
-  <img src="demo.gif" width="350">
+  <img src="demo.gif" width="500">
 </p>
 
 <p align="center">
